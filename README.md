@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Ph.D. Student
+Ph.D Student
 
 Beihang university. [Email](liuxiyang@buaa.edu.cn). 
